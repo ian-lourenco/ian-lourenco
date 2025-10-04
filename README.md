@@ -16,7 +16,7 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm a Backend Engineer from Brazil<br><br>- 🔭 I’m looking for new oportunities!<br>- 📚 I'm currently learning <strong>Hotwire</strong> and Front-End!<br>- ⚡ In my free time I practice Capoeira</p>
+<p align="left">Backend Engineer | WebDev Enthusiast and Professional <br><br>- 🔭 I’m looking for new oportunities!<br>- 📚 I'm currently learning <strong>Hotwire</strong> and Front-End!<br>- ⚡ In my free time I practice Capoeira</p>
 <hr/>
 
 <h3 align="left">🛠 Language and tools</h3>
